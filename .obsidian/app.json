@@ -1,0 +1,11 @@
+{
+  "showIndentGuide": false,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "vimMode": true,
+  "spellcheck": true,
+  "livePreview": false,
+  "alwaysUpdateLinks": true
+}
